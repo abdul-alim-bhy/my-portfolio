@@ -1,0 +1,145 @@
+h1{
+    font-size: 700;
+    color: purple;
+}
+h2{
+    color: blueviolet;
+}
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+
+}
+.top-section{
+    height: 500px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 40px;
+    padding-left: 20px;
+    margin-right: 60px;
+}
+.half-width span{
+    color: salmon;
+}
+section{
+    padding-top: 15px;
+}
+section img{
+    width: 80%;
+}
+.about-me-section{
+    height: 500px;
+}
+.link-button{
+    padding: 10px 20px;
+    background-color: turquoise;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 10px;
+}
+span img{
+    width: 25px;
+    height: 25px;
+    
+}
+#icon{
+    background-color: #f3f0f0;
+    
+}
+.latest-working-section{
+    height: 600px;
+    background-color: rgb(210, 224, 243);
+
+}
+.latest-working-section h2{
+    text-align: center;
+    
+}
+.latest-working-section span{
+    color: tomato;
+}
+.latest-working-section .one-third-width{
+    width: 30%;
+    float: left;
+    margin-left: 10px;
+    margin-right: 5px;
+    padding-left: 20px;
+    padding-top: 30px;
+    border: 3px solid grey;
+    box-shadow: 10px 10px 30px;
+    
+
+}
+.latest-working-section .one-third-width img{
+    padding-left: 40px;
+}
+.latest-working-section .one-third-width h3{
+    color: indigo;
+}
+.latest-working-section  h2{
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.my-services-section{
+    height: 400px;
+}
+.my-services-section p{
+    margin-left: 20px;
+    padding-left: 20px;
+    color: rgb(22, 1, 56);
+}
+.my-services-section h2{
+    text-align:center;
+    color: rgb(107, 4, 73);
+}
+.my-services-section .service p{
+    width: 300px;
+    color: rgb(22, 1, 56);
+}
+.my-services-section h3{
+    color: tomato
+}
+.my-services-section .service{
+    width:23%;
+    float: left;
+   
+}
+.my-services-section .service span{
+    color: maroon;
+    text-align: left;
+}
+#chat-heading{
+    display: inline-block;
+}
+.chatting-section .chat span{
+    background-color: rgb(7, 115, 182);
+    padding: 50px 100px;
+    display: block;
+    margin: 30px 250px;
+}
+.chatting-section .chat span a{
+    text-decoration: none;
+    margin-left: 200px;
+    background-color: lightsalmon;
+    padding: 10px 30px;
+}
+
+.footer-section h4,h3 {
+    text-align: center;
+}
+
+.footer-section #link-icon{
+    margin-left: 600px;
+   
+}
+.footer-section #link-icon a{
+    float:left;
+    margin-right: 5px;
+   
+}  
+.footer-section #link-icon a img{
+    width: 30px;
+    height: 30px;
+}
